@@ -1,0 +1,29 @@
+#banner {
+  background-color: #e27d60;
+  padding: 5%;
+
+  .home-banner {
+    padding: {
+      top: 30px;
+      left: 3%;
+      bottom: 3%;
+    }
+  }
+
+  .home-button {
+    margin-top: 10px;
+  }
+}
+
+#home-box {
+    .box {
+        text-align: center;
+    }
+    .left {
+        margin-right: 3%;
+    }
+    
+    .right {
+        margin-right: 3%;
+    }
+}
